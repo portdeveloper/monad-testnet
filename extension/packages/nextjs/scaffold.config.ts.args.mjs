@@ -1,0 +1,1 @@
+export const chainName = 'monad_testnet';
